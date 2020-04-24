@@ -1,0 +1,17 @@
+br\drops\listener\MenuClickEvent.class
+br\drops\api\ItemBuilder.class
+br\drops\database\MySQLDatabase$Credentials.class
+br\drops\Drops.class
+br\drops\api\SkullBuilder.class
+br\drops\database\MySQLDatabase.class
+br\drops\database\storages\UserStorage$1.class
+br\drops\listener\KillEntityEvent.class
+br\drops\managers\DropManager.class
+br\drops\database\storages\UserStorage.class
+br\drops\inventories\ItemsMenu.class
+br\drops\database\MySQLDatabase$Credentials$CredentialsBuilder.class
+br\drops\listener\PlayerConnectionEvent.class
+br\drops\objects\User.class
+br\drops\listener\MenuClickEvent$1.class
+br\drops\api\ItemSpecification.class
+br\drops\commands\DropsCommand.class

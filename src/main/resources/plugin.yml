@@ -1,0 +1,8 @@
+name: Drops
+version: ${project.version}
+main: br.drops.Drops
+authors: [zAryon]
+commands:
+  drops:
+    aliases:
+      - drop

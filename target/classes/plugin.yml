@@ -1,0 +1,8 @@
+name: Drops
+version: 1.0-SNAPSHOT
+main: br.drops.Drops
+authors: [zAryon]
+commands:
+  drops:
+    aliases:
+      - drop
