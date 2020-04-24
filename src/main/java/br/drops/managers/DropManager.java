@@ -73,5 +73,6 @@ public class DropManager {
 
         Drops plugin = Drops.getInstance();
         Bukkit.getScheduler().runTaskAsynchronously(plugin, () -> storage.update(user));
+        remove(user.getName());
     }
 }
